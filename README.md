@@ -2,6 +2,8 @@
 
 A small React application built with Vite for selecting and copying colors in RGB / Hex formats.
 
+This was completed as part of a project for Codedex React course. I updated it slightly from the requirements to choose randomly from a set of 50 colours, and added a button to regenerate the colours. 
+
 ## Features
 
 - Click or drag inside the color canvas to pick a hue + saturation.
